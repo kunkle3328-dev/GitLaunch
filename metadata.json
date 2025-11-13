@@ -1,0 +1,5 @@
+{
+  "name": "GitLaunch",
+  "description": "An application to upload a local project folder or a .zip file to a new GitHub repository, with automatic README generation.",
+  "requestFramePermissions": []
+}
